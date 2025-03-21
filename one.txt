@@ -1,4 +1,12 @@
 Practicing Rebasing.
+
+and master it.
+
+
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. 
+Cum sociis natoque penatibus et
+
 This is Chandni.
 
 
@@ -6,3 +14,4 @@ This is Chandni.
 
 
 hello myself GL
+
