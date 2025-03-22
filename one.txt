@@ -1,18 +1,5 @@
 Practicing Rebasing.
 
-and master it.
-
-
-
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. 
-Cum sociis natoque penatibus et
-
-This is Chandni.
-
-
-
---------------------This are the new changes for which we will need to reabse !!----------------------------------------
-
 
 
 
